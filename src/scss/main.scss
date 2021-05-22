@@ -1,0 +1,17 @@
+@import "second";
+@import "fonts";
+
+body {
+	background-color: blue;
+}
+
+p {
+	color: red;
+	font-family: "RobotoCondensed ";
+	width: 100px;
+}
+
+li {
+	font-family: "RobotoCondensed-italic";
+	font-weight: 300;
+}
